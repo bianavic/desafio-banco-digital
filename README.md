@@ -7,3 +7,6 @@ onde o expert implementa um projeto de referência (disponibilizado no GitHub) d
 
 Sendo assim, você poderá desenvolver sua capacidade de abstração reproduzindo essa solução. 
 Além disso, caso queira ir além, implemente suas próprias evoluções e melhorias ;-)
+
+### Resposta do programa
+![Console](./image/console.png "Imagem do console apos rodar o programa")
