@@ -10,8 +10,6 @@ public abstract class Conta implements Transacao {
     protected double saldo;
     protected Cliente cliente;
 
-    // construtor especifico para Conta,
-    // sempre q criada, vira com agencia e numero
     public Conta(Cliente cliente) {
         this.agencia = Conta.AGENCIA_PADRAO;
         this.numero = SEQUENCIAL++;
